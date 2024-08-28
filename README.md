@@ -1,0 +1,1 @@
+these are all the files for the project unfortunately we could'nt upload all of the models , so here is the project shell without of the models and how we trained each model on its respective bone type 
